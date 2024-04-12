@@ -26,6 +26,11 @@
 #define MEM_FLAG_STATIC		2
 
 
+
+#define ID_Proj yRZxygzyNb
+#define ID_User 381902
+
+
 typedef struct Buffer
 {
 	

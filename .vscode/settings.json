@@ -1,0 +1,10 @@
+{
+    "KeilAssistant.Project.ExcludeList": [
+        "template.uvproj",
+        "template.uvprojx"
+    ],
+    "files.associations": {
+        "sys.h": "c",
+        "mqttkit.h": "c"
+    }
+}
