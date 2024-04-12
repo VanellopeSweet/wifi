@@ -1,0 +1,12 @@
+ESP8266:
+VCC   5V (C8T6)
+GND   GND
+TXD   PA3
+RXD   PA2(串口2用于启动WiFi模块)
+RST   PB1
+
+PB12 DHT11的data口
+
+PC13 LED灯的远程控制数据口
+
+PC14 PC15分别对应两个继电器
